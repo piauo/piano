@@ -1,8 +1,10 @@
-## Hi, I'm Ibtissam 👋
+## Hi, I'm Ibtissam 
+
 Engineering student at École Centrale de Lyon  
+
 Applied Mathematics & Quantitative Finance.
-Currently Quantitative Analyst Intern @ Crédit Agricole S.A.  
-(credit risk modeling, PD models, backtesting, data analysis in Python)
+
+Currently Quantitative Analyst Intern @ Crédit Agricole S.A (credit risk modeling, PD models, backtesting, data analysis in Python)
 ---
 ### 📊 What I'm working on
 - Monte Carlo pricing engine for European options (GBM, Black-Scholes validation, convergence analysis)
