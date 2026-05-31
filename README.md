@@ -10,11 +10,13 @@ Currently Quantitative Analyst Intern @ Crédit Agricole S.A (credit risk modeli
 - Monte Carlo pricing engine for European options (GBM, Black-Scholes validation, convergence analysis)
 - Asset allocation signal prediction (QRT challenge, ML-based modeling, time-series features)
 ---
-### 🧠 Interests
+### 🧠 Interests 
 Derivatives pricing · Stochastic processes  
+
 Quantitative research · Systematic strategies · Financial modeling
+
 ---
 ### 🛠️ Tech stack
 Python · NumPy · pandas · scikit-learn · SQL · Git  
+
 (plus ongoing work on numerical methods & pricing models)
----
